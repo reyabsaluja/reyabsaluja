@@ -4,8 +4,9 @@
 - engineering @ [university of toronto](https://www.utoronto.ca/)
 
 ### recently:
-- designed and built an [electric go-kart](https://reyabsaluja0.wixsite.com/my-site) with custom embedded systems
-- led dev on a [platform app](#) for 30k+ schools, coordinating mobile + backend engineering
+- shipped [Motive](https://themotiveapp.ca/) (10k+ users, #30 social networking on App Store, 30k+ followers)
+- designed and built an [electric go-kart](https://reyabsaluja0.wixsite.com/my-site) from scratch
+- led dev on a [platform app](https://promplanner.app/) for 30k+ schools
 - authored [research publications](#) in electric vehicle sims
 
-links: [LinkedIn](https://www.linkedin.com/in/reyab-saluja/)
+links: [LinkedIn](https://www.linkedin.com/in/reyab-saluja/) | [Twitter](https://x.com/reyabsaluja)
