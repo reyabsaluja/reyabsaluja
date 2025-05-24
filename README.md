@@ -1,5 +1,7 @@
 ### Hi, I'm Reyab 👋
 
+#### about me:
+
 - incoming Data Science Intern @ Aviva (Summer 2025)
 - engineering @ [university of toronto](https://www.utoronto.ca/)
 - 18 years old
