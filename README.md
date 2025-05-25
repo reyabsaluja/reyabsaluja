@@ -13,6 +13,7 @@
 - led development on a [platform app](https://promplanner.app/) for 30k+ schools
 - authored a deep learning [research publication](#) with a goal of improving EV sims
 
+---------------
 
 <p align="left">
 <a href="https://twitter.com/reyabsaluja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reyabsaluja" height="30" width="40" /></a>
