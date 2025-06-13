@@ -17,5 +17,5 @@
 
 <p align="left">
 <a href="https://twitter.com/reyabsaluja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reyabsaluja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reyabsaluja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reyabsaluja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/reyab-saluja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reyabsaluja" height="30" width="40" /></a>
 </p>
