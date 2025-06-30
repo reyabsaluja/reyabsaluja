@@ -2,8 +2,8 @@
 
 #### about me:
 
+- Computer Engineering @ [University of Toronto](https://www.utoronto.ca/)
 - incoming Data Science Intern @ Aviva (Summer 2025)
-- engineering @ [university of toronto](https://www.utoronto.ca/)
 - 18 years old
 
 #### recently:
