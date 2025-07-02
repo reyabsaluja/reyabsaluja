@@ -3,7 +3,7 @@
 #### about me:
 
 - computer engineering @ [university of toronto](https://www.utoronto.ca/)
-- incoming Data Science Intern @ Aviva (Summer 2025)
+- incoming engineering intern @ Aviva (Summer 2025)
 - 18 years old
 
 #### recently:
@@ -12,7 +12,6 @@
 - shipped [StudyUp]() in under 8 hrs (global winner of the Lovable.dev hackathon, $15,000 CAD in prizes, invited to SF to demo)
 - designed and built an [electric go-kart](https://reyabsaluja0.wixsite.com/my-site) from scratch
 - led development on a [platform app](https://promplanner.app/) for 30k+ schools
-- authored a deep learning [research publication](#) with a goal of improving EV sims
 
 ---------------
 
