@@ -4,6 +4,7 @@
 
 - computer engineering @ [university of toronto](https://www.utoronto.ca/)
 - incoming engineering intern @ Aviva (Summer 2025)
+- undergradute researcher @ university of toronto (AI + Blockchain + IoT)
 - 18 years old
 
 #### recently:
