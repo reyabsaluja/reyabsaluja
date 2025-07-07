@@ -1,8 +1,8 @@
 ### Hi, I'm Reyab 👋
 
-#### about me:
-
 ## I just launched my [personal website](https:/reyabsaluja.com)! ⚒️🚀
+
+#### about me:
 
 - computer engineering @ [university of toronto](https://www.utoronto.ca/)
 - incoming engineering intern @ Aviva (Summer 2025)
