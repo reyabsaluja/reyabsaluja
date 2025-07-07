@@ -2,7 +2,7 @@
 
 #### about me:
 
-I just launched my [personal website](https:/reyabsaluja.com)!
+I just launched my [personal website](https:/reyabsaluja.com)! ⚒️🚀
 
 - computer engineering @ [university of toronto](https://www.utoronto.ca/)
 - incoming engineering intern @ Aviva (Summer 2025)
