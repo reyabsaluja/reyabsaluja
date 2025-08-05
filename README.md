@@ -11,7 +11,7 @@
 
 #### recently:
 
-- launched [Motive](https://themotiveapp.ca/) (10,000+ users, #27 peak in App Store Charts, 40,000+ social followers, inbound VC interest)
+- launched [Motive](https://themotiveapp.ca/) (10,000+ users, #27 peak in App Store Charts, 40,000+ social followers)
 - shipped [StudyUp]() in under 8 hrs (global winner of the Lovable.dev hackathon, $15,000 CAD in prizes, invited to SF to demo)
 - designed and built an [electric go-kart](https://reyabsaluja0.wixsite.com/my-site) from scratch
 - led development on a [platform app](https://promplanner.app/) for 30,000+ schools
