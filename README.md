@@ -1,6 +1,6 @@
 ### Hi, I'm Reyab 👋
 
-#### I just launched my personal website @ ([reyabsaluja.com](https://www.reyabsaluja.com/))! ⚒️🚀
+#### I just launched my personal website @ ([reyabsaluja.com](https://www.reyabsaluja.com/))! ⚒️
 
 #### about me:
 
